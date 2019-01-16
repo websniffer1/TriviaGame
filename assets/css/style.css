@@ -1,0 +1,20 @@
+body{
+    background-image: url(../images/background.jpg);
+    text-align: center;
+}
+
+.text-muted{
+    color: rgb(255, 247, 240);
+}
+.last-seconds{
+    color: rgb(211, 86, 86);
+  }
+  .option{
+    margin: 15px;
+  }
+  .jumbotron{
+      opacity: .9;
+      background-color: rgb(33, 102, 37);
+      color: antiquewhite;
+  }
+  
